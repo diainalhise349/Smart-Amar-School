@@ -1,0 +1,6 @@
+{
+  "name": "Smart Amar School",
+  "description": "A multi-tenant school management system blueprint featuring Super Admin, School Admin, and Teacher portals with student admission trends & completion analytics powered by Recharts, student performance analytics, secure document vault for student records, fee receipts, and academic certificates, official PDF export engine for physical record-keeping, academic calendar, fee payment gateway, and attendance tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
